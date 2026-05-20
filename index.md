@@ -5,4 +5,29 @@ subnav: workshops
 
 ## YR-Concur
 
-YR-Concur 2026 will be held on Saturday 5 September 2026!
+### About
+
+The 12th Young Researchers Workshop on Concurrency Theory aims to provide a platform for PhD students and young researchers to exchange new results related to concurrency theory and to receive feedback on their research. The focus is on informal discussions. All topics related to concurrency theory are welcome.
+
+### Format
+
+YR-CONCUR 2026 is a satellite workshop of Confest and will be held on Saturday, September 5th, 2026. It is anticipated that many Confest participants will attend the YR-workshop (and vice versa). Presentations are selected on the basis of an abstract of up to 2 pages describing the research or a short abstract of work published elsewhere. Submissions are judged on the expected interest in and quality of the talk. The accepted abstracts will be made available at the workshop, but no formal proceedings are planned. It is thus also allowed (and encouraged) to send results that have been published in other venues. 
+
+### Important dates
+
+TBA
+
+### Invited Speaker
+
+TBA
+
+### Organisers
+
+[Sarvin Bahmani](https://scholar.google.com/citations?user=kPYqpxMAAAAJ) (University of Liverpool, UK)  
+[Marie Fortin](https://www.irif.fr/users/mfortin) (IRIF, CNRS & Université Paris Cité, France)  
+[Marcin Jurdzinski](https://www.dcs.warwick.ac.uk/~mju) (University of Warwick, UK)
+
+### Programme Committee
+
+TBA
+
