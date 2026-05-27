@@ -15,7 +15,9 @@ YR-CONCUR 2026 is a satellite workshop of Confest and will be held on Saturday, 
 
 ### Important dates
 
-TBA
+- Submissions: 22 June, 2026 (AoE)
+- Notification: 15 July, 2026
+- Workshop: 5 September, 2026
 
 ### Invited Speaker
 
