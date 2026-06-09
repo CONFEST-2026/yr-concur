@@ -21,7 +21,7 @@ YR-CONCUR 2026 is a satellite workshop of Confest and will be held on Saturday, 
 
 ### Invited Speaker
 
-TBA
+[K. S. Thejaswini](https://thejaswiniraghavan.github.io/), Université Libre de Bruxelles (ULB)
 
 ### Organisers
 
@@ -31,5 +31,8 @@ TBA
 
 ### Programme Committee
 
-TBA
-
+[Sarvin Bahmani](https://scholar.google.com/citations?user=kPYqpxMAAAAJ) (University of Liverpool, UK)  
+[Marie Fortin](https://www.irif.fr/users/mfortin) (IRIF, CNRS & Université Paris Cité, France)  
+[Govind R](https://rdnivog.github.io/)(IMSc, Chennai, India)  
+[Lucie Guillou](https://lucieguillou.github.io/)(MPI-SWS, Germany)  
+[Marcin Jurdzinski](https://www.dcs.warwick.ac.uk/~mju) (University of Warwick, UK)
