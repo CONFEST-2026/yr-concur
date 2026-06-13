@@ -11,7 +11,7 @@ The 12th Young Researchers Workshop on Concurrency Theory (YR-CONCUR 2026) aims 
 
 ## Format
 
-YR-CONCUR 2026 is a satellite workshop of CONFEST 2026 and it will be held on Saturday, 5 September 2026. It is anticipated that many CONFEST participants will attend the YR-CONCUR workshop (and vice versa). Presentations are selected on the basis of an abstract of up to 2 pages describing the research or a short abstract of work published elsewhere. Submissions are judged on the expected interest and the quality of the talk. The accepted abstracts will be made available at the workshop, but no formal proceedings are planned. It is thus also allowed (and encouraged) to send results that have been published in other venues. 
+YR-CONCUR 2026 is a satellite workshop of CONFEST 2026 and it will be held on Saturday, 5 September 2026. It is anticipated that many CONFEST participants will attend the YR-CONCUR workshop (and vice versa). Presentations are selected on the basis of an abstract of up to 2 pages (excluding references) describing the research or a short abstract of work published elsewhere. Submissions are judged on the expected interest and the quality of the talk. The accepted abstracts will be made available at the workshop, but no formal proceedings are planned. It is thus also allowed (and encouraged) to send results that have been published in other venues. 
 
 ## Important dates
 
