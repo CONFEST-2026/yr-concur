@@ -39,4 +39,5 @@ YR-CONCUR 2026 is a satellite workshop of CONFEST 2026 and it will be held on Sa
 
 ## Submission Link
 
-Submission link: https://easychair.org/conferences/?conf=yrconcur2026
+Submission link: 
+https://easychair.org/conferences/?conf=yrconcur2026
