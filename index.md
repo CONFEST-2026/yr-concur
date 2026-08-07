@@ -25,13 +25,13 @@ YR-CONCUR 2026 is a satellite workshop of CONFEST 2026 and it will be held on Sa
 
 ## Organisers
 
-[Sarvin Bahmani](https://scholar.google.com/citations?user=kPYqpxMAAAAJ) (University of Liverpool, UK)  
+[Sarvin Bahmani](https://sarvinbahmani.github.io/) (University of Liverpool, UK)  
 [Marie Fortin](https://www.irif.fr/users/mfortin) (IRIF, CNRS & Université Paris Cité, France)  
 [Marcin Jurdzinski](https://www.dcs.warwick.ac.uk/~mju) (University of Warwick, UK)
 
 ## Programme Committee
 
-[Sarvin Bahmani](https://scholar.google.com/citations?user=kPYqpxMAAAAJ) (University of Liverpool, UK)  
+[Sarvin Bahmani](https://sarvinbahmani.github.io/) (University of Liverpool, UK)  
 [Marie Fortin](https://www.irif.fr/users/mfortin) (IRIF, CNRS & Université Paris Cité, France)  
 [Govind R](https://rdnivog.github.io/) (IMSc, Chennai, India)  
 [Lucie Guillou](https://lucieguillou.github.io/) (MPI-SWS, Germany)  
