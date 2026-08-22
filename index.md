@@ -23,7 +23,7 @@ YR-CONCUR 2026 is a satellite workshop of CONFEST 2026 and it will be held on Sa
 
 [K. S. Thejaswini](https://thejaswiniraghavan.github.io/), Université Libre de Bruxelles (ULB)
 
-### Program
+## Program
 
 See [here](https://confest-2026.github.io/program/yr-concur)
 
