@@ -21,7 +21,7 @@ YR-CONCUR 2026 is a satellite workshop of CONFEST 2026 and it will be held on Sa
 
 ## Invited Speaker
 
-[K. S. Thejaswini](https://thejaswiniraghavan.github.io/), Université Libre de Bruxelles (ULB)
+[K. S. Thejaswini](https://thejaswiniraghavan.github.io/), Université Libre de Bruxelles (ULB): : [**Whose dice is it anyway?**](https://confest-2026.github.io/talks/ws-yr-concur-session-1/)
 
 ## Program
 
